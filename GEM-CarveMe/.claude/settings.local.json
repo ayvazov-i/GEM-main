@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(c:/Users/MSI/Desktop/GEM/.venv/Scripts/python.exe -c \"import pyDOE2; print\\(''pyDOE2 OK''\\)\")",
+      "Bash(c:/Users/MSI/Desktop/GEM/.venv/Scripts/python.exe -c \"import openpyxl; print\\(''openpyxl OK''\\)\")",
+      "Bash(c:/Users/MSI/Desktop/GEM/.venv/Scripts/python.exe -c \"import Bio; print\\(''biopython OK''\\)\")",
+      "Bash(c:/Users/MSI/Desktop/GEM/.venv/Scripts/python.exe -c \"import pyDOE3; print\\(''''pyDOE3 OK''''\\)\")",
+      "Bash(c:/Users/MSI/Desktop/GEM/.venv/Scripts/pip.exe install:*)"
+    ]
+  }
+}

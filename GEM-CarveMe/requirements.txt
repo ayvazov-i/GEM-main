@@ -1,0 +1,25 @@
+# GEM Media Optimiser — Python dependencies
+# Install with: .venv/Scripts/pip install -r requirements.txt
+
+# Core metabolic modelling
+cobra>=0.29
+
+# Data & computation
+pandas>=2.0
+numpy>=1.24
+pyDOE3>=1.6          # Python 3.12-compatible DoE library (replaces pyDOE2)
+
+# Visualisation
+plotly>=5.18
+
+# Web UI
+streamlit>=1.31      # Needed for st.switch_page()
+
+# Genome file parsing
+biopython>=1.83
+
+# Export
+openpyxl>=3.1        # Excel export
+
+# CarveMe (optional — requires Diamond and Prodigal at system level)
+# carveme>=1.6

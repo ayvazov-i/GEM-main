@@ -1,0 +1,2702 @@
+{
+  "EX_pi_e": {
+    "model_reaction_id": "EX_pi_e",
+    "metabolite_id": "pi_e",
+    "name": "Phosphate",
+    "formula": "HO4P",
+    "compartment": "e",
+    "common_names": [
+      "phosphate",
+      "Pi"
+    ]
+  },
+  "EX_co2_e": {
+    "model_reaction_id": "EX_co2_e",
+    "metabolite_id": "co2_e",
+    "name": "CO2 CO2",
+    "formula": "CO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_met__L_e": {
+    "model_reaction_id": "EX_met__L_e",
+    "metabolite_id": "met__L_e",
+    "name": "L-Methionine",
+    "formula": "C5H11NO2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_metsox_S__L_e": {
+    "model_reaction_id": "EX_metsox_S__L_e",
+    "metabolite_id": "metsox_S__L_e",
+    "name": "L-Methionine Sulfoxide",
+    "formula": "C5H11NO3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acgam_e": {
+    "model_reaction_id": "EX_acgam_e",
+    "metabolite_id": "acgam_e",
+    "name": "N-Acetyl-D-glucosamine",
+    "formula": "C8H15NO6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cellb_e": {
+    "model_reaction_id": "EX_cellb_e",
+    "metabolite_id": "cellb_e",
+    "name": "Cellobiose",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_crn_e": {
+    "model_reaction_id": "EX_crn_e",
+    "metabolite_id": "crn_e",
+    "name": "L-Carnitine",
+    "formula": "C7H15NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hxan_e": {
+    "model_reaction_id": "EX_hxan_e",
+    "metabolite_id": "hxan_e",
+    "name": "Hypoxanthine",
+    "formula": "C5H4N4O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ile__L_e": {
+    "model_reaction_id": "EX_ile__L_e",
+    "metabolite_id": "ile__L_e",
+    "name": "L-Isoleucine",
+    "formula": "C6H13NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_chol_e": {
+    "model_reaction_id": "EX_chol_e",
+    "metabolite_id": "chol_e",
+    "name": "Choline C5H14NO",
+    "formula": "C5H14NO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe3_e": {
+    "model_reaction_id": "EX_fe3_e",
+    "metabolite_id": "fe3_e",
+    "name": "Iron (Fe3+)",
+    "formula": "Fe",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lac__L_e": {
+    "model_reaction_id": "EX_lac__L_e",
+    "metabolite_id": "lac__L_e",
+    "name": "L-Lactate",
+    "formula": "C3H5O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_leu__L_e": {
+    "model_reaction_id": "EX_leu__L_e",
+    "metabolite_id": "leu__L_e",
+    "name": "L-Leucine",
+    "formula": "C6H13NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glcn_e": {
+    "model_reaction_id": "EX_glcn_e",
+    "metabolite_id": "glcn_e",
+    "name": "D-Gluconate",
+    "formula": "C6H11O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_no3_e": {
+    "model_reaction_id": "EX_no3_e",
+    "metabolite_id": "no3_e",
+    "name": "Nitrate",
+    "formula": "NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_h_e": {
+    "model_reaction_id": "EX_h_e",
+    "metabolite_id": "h_e",
+    "name": "H+",
+    "formula": "H",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_orn_e": {
+    "model_reaction_id": "EX_orn_e",
+    "metabolite_id": "orn_e",
+    "name": "Ornithine",
+    "formula": "C5H13N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gln__L_e": {
+    "model_reaction_id": "EX_gln__L_e",
+    "metabolite_id": "gln__L_e",
+    "name": "L-Glutamine",
+    "formula": "C5H10N2O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pro__L_e": {
+    "model_reaction_id": "EX_pro__L_e",
+    "metabolite_id": "pro__L_e",
+    "name": "L-Proline",
+    "formula": "C5H9NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glyc_e": {
+    "model_reaction_id": "EX_glyc_e",
+    "metabolite_id": "glyc_e",
+    "name": "Glycerol",
+    "formula": "C3H8O3",
+    "compartment": "e",
+    "common_names": [
+      "glycerol"
+    ]
+  },
+  "EX_man_e": {
+    "model_reaction_id": "EX_man_e",
+    "metabolite_id": "man_e",
+    "name": "D-Mannose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ade_e": {
+    "model_reaction_id": "EX_ade_e",
+    "metabolite_id": "ade_e",
+    "name": "Adenine",
+    "formula": "C5H5N5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mn2_e": {
+    "model_reaction_id": "EX_mn2_e",
+    "metabolite_id": "mn2_e",
+    "name": "Manganese",
+    "formula": "Mn",
+    "compartment": "e",
+    "common_names": [
+      "manganese",
+      "Mn2+"
+    ]
+  },
+  "EX_4abut_e": {
+    "model_reaction_id": "EX_4abut_e",
+    "metabolite_id": "4abut_e",
+    "name": "4-Aminobutanoate",
+    "formula": "C4H9NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ac_e": {
+    "model_reaction_id": "EX_ac_e",
+    "metabolite_id": "ac_e",
+    "name": "Acetate",
+    "formula": "C2H3O2",
+    "compartment": "e",
+    "common_names": [
+      "acetate"
+    ]
+  },
+  "EX_akg_e": {
+    "model_reaction_id": "EX_akg_e",
+    "metabolite_id": "akg_e",
+    "name": "2-Oxoglutarate",
+    "formula": "C5H4O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ala__L_e": {
+    "model_reaction_id": "EX_ala__L_e",
+    "metabolite_id": "ala__L_e",
+    "name": "L-Alanine",
+    "formula": "C3H7NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_arg__L_e": {
+    "model_reaction_id": "EX_arg__L_e",
+    "metabolite_id": "arg__L_e",
+    "name": "L-Arginine",
+    "formula": "C6H15N4O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_asp__L_e": {
+    "model_reaction_id": "EX_asp__L_e",
+    "metabolite_id": "asp__L_e",
+    "name": "L-Aspartate",
+    "formula": "C4H6NO4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pyr_e": {
+    "model_reaction_id": "EX_pyr_e",
+    "metabolite_id": "pyr_e",
+    "name": "Pyruvate",
+    "formula": "C3H3O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_succ_e": {
+    "model_reaction_id": "EX_succ_e",
+    "metabolite_id": "succ_e",
+    "name": "Succinate",
+    "formula": "C4H4O4",
+    "compartment": "e",
+    "common_names": [
+      "succinate"
+    ]
+  },
+  "EX_thymd_e": {
+    "model_reaction_id": "EX_thymd_e",
+    "metabolite_id": "thymd_e",
+    "name": "Thymidine C10H14N2O5",
+    "formula": "C10H14N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_rib__D_e": {
+    "model_reaction_id": "EX_rib__D_e",
+    "metabolite_id": "rib__D_e",
+    "name": "D-Ribose",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tyr__L_e": {
+    "model_reaction_id": "EX_tyr__L_e",
+    "metabolite_id": "tyr__L_e",
+    "name": "L-Tyrosine",
+    "formula": "C9H11NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cytd_e": {
+    "model_reaction_id": "EX_cytd_e",
+    "metabolite_id": "cytd_e",
+    "name": "Cytidine",
+    "formula": "C9H13N3O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dcyt_e": {
+    "model_reaction_id": "EX_dcyt_e",
+    "metabolite_id": "dcyt_e",
+    "name": "Deoxycytidine",
+    "formula": "C9H13N3O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fum_e": {
+    "model_reaction_id": "EX_fum_e",
+    "metabolite_id": "fum_e",
+    "name": "Fumarate",
+    "formula": "C4H2O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_sbt__D_e": {
+    "model_reaction_id": "EX_sbt__D_e",
+    "metabolite_id": "sbt__D_e",
+    "name": "D-Sorbitol",
+    "formula": "C6H14O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glu__L_e": {
+    "model_reaction_id": "EX_glu__L_e",
+    "metabolite_id": "glu__L_e",
+    "name": "L-Glutamate",
+    "formula": "C5H8NO4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gua_e": {
+    "model_reaction_id": "EX_gua_e",
+    "metabolite_id": "gua_e",
+    "name": "Guanine",
+    "formula": "C5H5N5O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_btn_e": {
+    "model_reaction_id": "EX_btn_e",
+    "metabolite_id": "btn_e",
+    "name": "Biotin",
+    "formula": "C10H15N2O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ptrc_e": {
+    "model_reaction_id": "EX_ptrc_e",
+    "metabolite_id": "ptrc_e",
+    "name": "Putrescine",
+    "formula": "C4H14N2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_spmd_e": {
+    "model_reaction_id": "EX_spmd_e",
+    "metabolite_id": "spmd_e",
+    "name": "Spermidine",
+    "formula": "C7H22N3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_thym_e": {
+    "model_reaction_id": "EX_thym_e",
+    "metabolite_id": "thym_e",
+    "name": "Thymine C5H6N2O2",
+    "formula": "C5H6N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_xtsn_e": {
+    "model_reaction_id": "EX_xtsn_e",
+    "metabolite_id": "xtsn_e",
+    "name": "Xanthosine",
+    "formula": "C10H12N4O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe2_e": {
+    "model_reaction_id": "EX_fe2_e",
+    "metabolite_id": "fe2_e",
+    "name": "Fe2+ mitochondria",
+    "formula": "Fe",
+    "compartment": "e",
+    "common_names": [
+      "iron",
+      "Fe2+"
+    ]
+  },
+  "EX_glc__D_e": {
+    "model_reaction_id": "EX_glc__D_e",
+    "metabolite_id": "glc__D_e",
+    "name": "D-Glucose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": [
+      "glucose",
+      "dextrose"
+    ]
+  },
+  "EX_alltn_e": {
+    "model_reaction_id": "EX_alltn_e",
+    "metabolite_id": "alltn_e",
+    "name": "Allantoin",
+    "formula": "C4H6N4O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ura_e": {
+    "model_reaction_id": "EX_ura_e",
+    "metabolite_id": "ura_e",
+    "name": "Uracil",
+    "formula": "C4H4N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_val__L_e": {
+    "model_reaction_id": "EX_val__L_e",
+    "metabolite_id": "val__L_e",
+    "name": "L-Valine",
+    "formula": "C5H11NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_xan_e": {
+    "model_reaction_id": "EX_xan_e",
+    "metabolite_id": "xan_e",
+    "name": "Xanthine",
+    "formula": "C5H4N4O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dgsn_e": {
+    "model_reaction_id": "EX_dgsn_e",
+    "metabolite_id": "dgsn_e",
+    "name": "Deoxyguanosine",
+    "formula": "C10H13N5O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_arab__L_e": {
+    "model_reaction_id": "EX_arab__L_e",
+    "metabolite_id": "arab__L_e",
+    "name": "L-Arabinose",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fru_e": {
+    "model_reaction_id": "EX_fru_e",
+    "metabolite_id": "fru_e",
+    "name": "D-Fructose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": [
+      "fructose"
+    ]
+  },
+  "EX_gal_e": {
+    "model_reaction_id": "EX_gal_e",
+    "metabolite_id": "gal_e",
+    "name": "D-Galactose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_xyl__D_e": {
+    "model_reaction_id": "EX_xyl__D_e",
+    "metabolite_id": "xyl__D_e",
+    "name": "D-Xylose",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": [
+      "xylose"
+    ]
+  },
+  "EX_duri_e": {
+    "model_reaction_id": "EX_duri_e",
+    "metabolite_id": "duri_e",
+    "name": "Deoxyuridine",
+    "formula": "C9H12N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_for_e": {
+    "model_reaction_id": "EX_for_e",
+    "metabolite_id": "for_e",
+    "name": "Formate",
+    "formula": "CH1O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gly_e": {
+    "model_reaction_id": "EX_gly_e",
+    "metabolite_id": "gly_e",
+    "name": "Glycine",
+    "formula": "C2H5NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_h2_e": {
+    "model_reaction_id": "EX_h2_e",
+    "metabolite_id": "h2_e",
+    "name": "Hydrogen",
+    "formula": "H2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lys__L_e": {
+    "model_reaction_id": "EX_lys__L_e",
+    "metabolite_id": "lys__L_e",
+    "name": "L-Lysine",
+    "formula": "C6H15N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ser__L_e": {
+    "model_reaction_id": "EX_ser__L_e",
+    "metabolite_id": "ser__L_e",
+    "name": "L-Serine",
+    "formula": "C3H7NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_thm_e": {
+    "model_reaction_id": "EX_thm_e",
+    "metabolite_id": "thm_e",
+    "name": "Thiamin",
+    "formula": "C12H17N4OS",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_trp__L_e": {
+    "model_reaction_id": "EX_trp__L_e",
+    "metabolite_id": "trp__L_e",
+    "name": "L-Tryptophan",
+    "formula": "C11H12N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_din_e": {
+    "model_reaction_id": "EX_din_e",
+    "metabolite_id": "din_e",
+    "name": "Deoxyinosine",
+    "formula": "C10H12N4O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fmn_e": {
+    "model_reaction_id": "EX_fmn_e",
+    "metabolite_id": "fmn_e",
+    "name": "FMN C17H19N4O9P",
+    "formula": "C17H19N4O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gthox_e": {
+    "model_reaction_id": "EX_gthox_e",
+    "metabolite_id": "gthox_e",
+    "name": "Oxidized glutathione",
+    "formula": "C20H30N6O12S2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tmao_e": {
+    "model_reaction_id": "EX_tmao_e",
+    "metabolite_id": "tmao_e",
+    "name": "Trimethylamine N-oxide",
+    "formula": "C3H9NO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acald_e": {
+    "model_reaction_id": "EX_acald_e",
+    "metabolite_id": "acald_e",
+    "name": "Acetaldehyde",
+    "formula": "C2H4O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_melib_e": {
+    "model_reaction_id": "EX_melib_e",
+    "metabolite_id": "melib_e",
+    "name": "Melibiose C12H22O11",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_sucr_e": {
+    "model_reaction_id": "EX_sucr_e",
+    "metabolite_id": "sucr_e",
+    "name": "Sucrose C12H22O11",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tre_e": {
+    "model_reaction_id": "EX_tre_e",
+    "metabolite_id": "tre_e",
+    "name": "Trehalose",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_zn2_e": {
+    "model_reaction_id": "EX_zn2_e",
+    "metabolite_id": "zn2_e",
+    "name": "Zinc",
+    "formula": "Zn",
+    "compartment": "e",
+    "common_names": [
+      "zinc",
+      "Zn2+"
+    ]
+  },
+  "EX_hdcea_e": {
+    "model_reaction_id": "EX_hdcea_e",
+    "metabolite_id": "hdcea_e",
+    "name": "Hexadecenoate (n-C16:1)",
+    "formula": "C16H29O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lac__D_e": {
+    "model_reaction_id": "EX_lac__D_e",
+    "metabolite_id": "lac__D_e",
+    "name": "D-Lactate",
+    "formula": "C3H5O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ttdcea_e": {
+    "model_reaction_id": "EX_ttdcea_e",
+    "metabolite_id": "ttdcea_e",
+    "name": "Tetradecenoate (n-C14:1)",
+    "formula": "C14H25O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_h2s_e": {
+    "model_reaction_id": "EX_h2s_e",
+    "metabolite_id": "h2s_e",
+    "name": "Hydrogen sulfide",
+    "formula": "H2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gthrd_e": {
+    "model_reaction_id": "EX_gthrd_e",
+    "metabolite_id": "gthrd_e",
+    "name": "Reduced glutathione",
+    "formula": "C10H16N3O6S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_26dap__M_e": {
+    "model_reaction_id": "EX_26dap__M_e",
+    "metabolite_id": "26dap__M_e",
+    "name": "Meso-2,6-Diaminoheptanedioate",
+    "formula": "C7H14N2O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acnam_e": {
+    "model_reaction_id": "EX_acnam_e",
+    "metabolite_id": "acnam_e",
+    "name": "N-Acetylneuraminate",
+    "formula": "C11H18NO9",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_amp_e": {
+    "model_reaction_id": "EX_amp_e",
+    "metabolite_id": "amp_e",
+    "name": "AMP C10H12N5O7P",
+    "formula": "C10H12N5O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dha_e": {
+    "model_reaction_id": "EX_dha_e",
+    "metabolite_id": "dha_e",
+    "name": "Dihydroxyacetone",
+    "formula": "C3H6O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fuc__L_e": {
+    "model_reaction_id": "EX_fuc__L_e",
+    "metabolite_id": "fuc__L_e",
+    "name": "L-Fucose",
+    "formula": "C6H12O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_met__D_e": {
+    "model_reaction_id": "EX_met__D_e",
+    "metabolite_id": "met__D_e",
+    "name": "D-Methionine",
+    "formula": "C5H10NO2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tartr__L_e": {
+    "model_reaction_id": "EX_tartr__L_e",
+    "metabolite_id": "tartr__L_e",
+    "name": "L-tartrate",
+    "formula": "C4H4O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_taur_e": {
+    "model_reaction_id": "EX_taur_e",
+    "metabolite_id": "taur_e",
+    "name": "Taurine C2H7NO3S",
+    "formula": "C2H7NO3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_maltpt_e": {
+    "model_reaction_id": "EX_maltpt_e",
+    "metabolite_id": "maltpt_e",
+    "name": "Maltopentaose",
+    "formula": "C30H52O26",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glyald_e": {
+    "model_reaction_id": "EX_glyald_e",
+    "metabolite_id": "glyald_e",
+    "name": "D-Glyceraldehyde",
+    "formula": "C3H6O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glcur_e": {
+    "model_reaction_id": "EX_glcur_e",
+    "metabolite_id": "glcur_e",
+    "name": "D-Glucuronate",
+    "formula": "C6H9O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_nmn_e": {
+    "model_reaction_id": "EX_nmn_e",
+    "metabolite_id": "nmn_e",
+    "name": "NMN C11H14N2O8P",
+    "formula": "C11H14N2O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_urea_e": {
+    "model_reaction_id": "EX_urea_e",
+    "metabolite_id": "urea_e",
+    "name": "Urea CH4N2O",
+    "formula": "CH4N2O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_f6p_e": {
+    "model_reaction_id": "EX_f6p_e",
+    "metabolite_id": "f6p_e",
+    "name": "D-Fructose 6-phosphate",
+    "formula": "C6H11O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_rmn_e": {
+    "model_reaction_id": "EX_rmn_e",
+    "metabolite_id": "rmn_e",
+    "name": "L-Rhamnose",
+    "formula": "C6H12O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ttdca_e": {
+    "model_reaction_id": "EX_ttdca_e",
+    "metabolite_id": "ttdca_e",
+    "name": "Tetradecanoate (n-C14:0)",
+    "formula": "C14H27O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glyclt_e": {
+    "model_reaction_id": "EX_glyclt_e",
+    "metabolite_id": "glyclt_e",
+    "name": "Glycolate C2H3O3",
+    "formula": "C2H3O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g6p_e": {
+    "model_reaction_id": "EX_g6p_e",
+    "metabolite_id": "g6p_e",
+    "name": "D-Glucose 6-phosphate",
+    "formula": "C6H11O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_2ddglcn_e": {
+    "model_reaction_id": "EX_2ddglcn_e",
+    "metabolite_id": "2ddglcn_e",
+    "name": "2-Dehydro-3-deoxy-D-gluconate",
+    "formula": "C6H9O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mmet_e": {
+    "model_reaction_id": "EX_mmet_e",
+    "metabolite_id": "mmet_e",
+    "name": "S-Methyl-L-methionine",
+    "formula": "C6H14NO2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_galct__D_e": {
+    "model_reaction_id": "EX_galct__D_e",
+    "metabolite_id": "galct__D_e",
+    "name": "D-Galactarate",
+    "formula": "C6H8O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_idon__L_e": {
+    "model_reaction_id": "EX_idon__L_e",
+    "metabolite_id": "idon__L_e",
+    "name": "L-Idonate",
+    "formula": "C6H11O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_indole_e": {
+    "model_reaction_id": "EX_indole_e",
+    "metabolite_id": "indole_e",
+    "name": "Indole",
+    "formula": "C8H7N",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3hcinnm_e": {
+    "model_reaction_id": "EX_3hcinnm_e",
+    "metabolite_id": "3hcinnm_e",
+    "name": "3-hydroxycinnamic acid",
+    "formula": "C9H7O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acac_e": {
+    "model_reaction_id": "EX_acac_e",
+    "metabolite_id": "acac_e",
+    "name": "Acetoacetate",
+    "formula": "C4H5O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acmana_e": {
+    "model_reaction_id": "EX_acmana_e",
+    "metabolite_id": "acmana_e",
+    "name": "N-Acetyl-D-mannosamine",
+    "formula": "C8H15NO6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_galur_e": {
+    "model_reaction_id": "EX_galur_e",
+    "metabolite_id": "galur_e",
+    "name": "D-Galacturonate",
+    "formula": "C6H9O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_adn_e": {
+    "model_reaction_id": "EX_adn_e",
+    "metabolite_id": "adn_e",
+    "name": "Adenosine",
+    "formula": "C10H13N5O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ins_e": {
+    "model_reaction_id": "EX_ins_e",
+    "metabolite_id": "ins_e",
+    "name": "Inosine",
+    "formula": "C10H12N4O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mg2_e": {
+    "model_reaction_id": "EX_mg2_e",
+    "metabolite_id": "mg2_e",
+    "name": "Magnesium",
+    "formula": "Mg",
+    "compartment": "e",
+    "common_names": [
+      "magnesium",
+      "Mg2+"
+    ]
+  },
+  "EX_glyc3p_e": {
+    "model_reaction_id": "EX_glyc3p_e",
+    "metabolite_id": "glyc3p_e",
+    "name": "Glycerol 3-phosphate",
+    "formula": "C3H7O6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_but_e": {
+    "model_reaction_id": "EX_but_e",
+    "metabolite_id": "but_e",
+    "name": "Butyrate (n-C4:0)",
+    "formula": "C4H7O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lcts_e": {
+    "model_reaction_id": "EX_lcts_e",
+    "metabolite_id": "lcts_e",
+    "name": "Lactose C12H22O11",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ocdca_e": {
+    "model_reaction_id": "EX_ocdca_e",
+    "metabolite_id": "ocdca_e",
+    "name": "Octadecanoate (n-C18:0)",
+    "formula": "C18H35O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cbl1_e": {
+    "model_reaction_id": "EX_cbl1_e",
+    "metabolite_id": "cbl1_e",
+    "name": "Cob(I)alamin",
+    "formula": "C62H88CoN13O14P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_nac_e": {
+    "model_reaction_id": "EX_nac_e",
+    "metabolite_id": "nac_e",
+    "name": "Nicotinate",
+    "formula": "C6H4NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dad_2_e": {
+    "model_reaction_id": "EX_dad_2_e",
+    "metabolite_id": "dad_2_e",
+    "name": "Deoxyadenosine",
+    "formula": "C10H13N5O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ser__D_e": {
+    "model_reaction_id": "EX_ser__D_e",
+    "metabolite_id": "ser__D_e",
+    "name": "D-Serine",
+    "formula": "C3H7NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gam6p_e": {
+    "model_reaction_id": "EX_gam6p_e",
+    "metabolite_id": "gam6p_e",
+    "name": "D-Glucosamine 6-phosphate",
+    "formula": "C6H13NO8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_15dap_e": {
+    "model_reaction_id": "EX_15dap_e",
+    "metabolite_id": "15dap_e",
+    "name": "1,5-Diaminopentane",
+    "formula": "C5H16N2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ocdcea_e": {
+    "model_reaction_id": "EX_ocdcea_e",
+    "metabolite_id": "ocdcea_e",
+    "name": "Octadecenoate (n-C18:1)",
+    "formula": "C18H33O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cynt_e": {
+    "model_reaction_id": "EX_cynt_e",
+    "metabolite_id": "cynt_e",
+    "name": "Cyanate",
+    "formula": "CNO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_galctn__D_e": {
+    "model_reaction_id": "EX_galctn__D_e",
+    "metabolite_id": "galctn__D_e",
+    "name": "D-Galactonate",
+    "formula": "C6H11O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glyb_e": {
+    "model_reaction_id": "EX_glyb_e",
+    "metabolite_id": "glyb_e",
+    "name": "Glycine betaine",
+    "formula": "C5H11NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ca2_e": {
+    "model_reaction_id": "EX_ca2_e",
+    "metabolite_id": "ca2_e",
+    "name": "Calcium",
+    "formula": "Ca",
+    "compartment": "e",
+    "common_names": [
+      "calcium",
+      "Ca2+"
+    ]
+  },
+  "EX_so3_e": {
+    "model_reaction_id": "EX_so3_e",
+    "metabolite_id": "so3_e",
+    "name": "Sulfite",
+    "formula": "O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ascb__L_e": {
+    "model_reaction_id": "EX_ascb__L_e",
+    "metabolite_id": "ascb__L_e",
+    "name": "L-Ascorbate",
+    "formula": "C6H8O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ala_B_e": {
+    "model_reaction_id": "EX_ala_B_e",
+    "metabolite_id": "ala_B_e",
+    "name": "Beta-Alanine",
+    "formula": "C3H7NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_agm_e": {
+    "model_reaction_id": "EX_agm_e",
+    "metabolite_id": "agm_e",
+    "name": "Agmatine",
+    "formula": "C5H16N4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_minohp_e": {
+    "model_reaction_id": "EX_minohp_e",
+    "metabolite_id": "minohp_e",
+    "name": "Myo-Inositol hexakisphosphate",
+    "formula": "C6H6O24P6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ppt_e": {
+    "model_reaction_id": "EX_ppt_e",
+    "metabolite_id": "ppt_e",
+    "name": "Phosphonate",
+    "formula": "HO3P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hxa_e": {
+    "model_reaction_id": "EX_hxa_e",
+    "metabolite_id": "hxa_e",
+    "name": "Hexanoate (n-C6:0)",
+    "formula": "C6H11O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lyx__L_e": {
+    "model_reaction_id": "EX_lyx__L_e",
+    "metabolite_id": "lyx__L_e",
+    "name": "L-Lyxose",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acmum_e": {
+    "model_reaction_id": "EX_acmum_e",
+    "metabolite_id": "acmum_e",
+    "name": "N-Acetylmuramate",
+    "formula": "C11H18NO8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dca_e": {
+    "model_reaction_id": "EX_dca_e",
+    "metabolite_id": "dca_e",
+    "name": "Decanoate (n-C10:0)",
+    "formula": "C10H19O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_all__D_e": {
+    "model_reaction_id": "EX_all__D_e",
+    "metabolite_id": "all__D_e",
+    "name": "D-Allose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_octa_e": {
+    "model_reaction_id": "EX_octa_e",
+    "metabolite_id": "octa_e",
+    "name": "Octanoate (n-C8:0)",
+    "formula": "C8H15O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gbbtn_e": {
+    "model_reaction_id": "EX_gbbtn_e",
+    "metabolite_id": "gbbtn_e",
+    "name": "Gamma-butyrobetaine",
+    "formula": "C7H15NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_xylu__L_e": {
+    "model_reaction_id": "EX_xylu__L_e",
+    "metabolite_id": "xylu__L_e",
+    "name": "L-Xylulose",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gdp_e": {
+    "model_reaction_id": "EX_gdp_e",
+    "metabolite_id": "gdp_e",
+    "name": "GDP C10H12N5O11P2",
+    "formula": "C10H12N5O11P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gtp_e": {
+    "model_reaction_id": "EX_gtp_e",
+    "metabolite_id": "gtp_e",
+    "name": "GTP C10H12N5O14P3",
+    "formula": "C10H12N5O14P3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tma_e": {
+    "model_reaction_id": "EX_tma_e",
+    "metabolite_id": "tma_e",
+    "name": "Trimethylamine",
+    "formula": "C3H10N",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fruur_e": {
+    "model_reaction_id": "EX_fruur_e",
+    "metabolite_id": "fruur_e",
+    "name": "D-Fructuronate",
+    "formula": "C6H9O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_malttr_e": {
+    "model_reaction_id": "EX_malttr_e",
+    "metabolite_id": "malttr_e",
+    "name": "Maltotriose C18H32O16",
+    "formula": "C18H32O16",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cbi_e": {
+    "model_reaction_id": "EX_cbi_e",
+    "metabolite_id": "cbi_e",
+    "name": "Cobinamide",
+    "formula": "C48H72CoN11O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_arbtn_fe3_e": {
+    "model_reaction_id": "EX_arbtn_fe3_e",
+    "metabolite_id": "arbtn_fe3_e",
+    "name": "Aerobactin",
+    "formula": "C22H33FeN4O13",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cpgn_e": {
+    "model_reaction_id": "EX_cpgn_e",
+    "metabolite_id": "cpgn_e",
+    "name": "Coprogen",
+    "formula": "C35H52N6O13Fe",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ch4_e": {
+    "model_reaction_id": "EX_ch4_e",
+    "metabolite_id": "ch4_e",
+    "name": "Methane",
+    "formula": "CH4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_adocbl_e": {
+    "model_reaction_id": "EX_adocbl_e",
+    "metabolite_id": "adocbl_e",
+    "name": "Adenosylcobalamin",
+    "formula": "C72H100CoN18O17P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ppa_e": {
+    "model_reaction_id": "EX_ppa_e",
+    "metabolite_id": "ppa_e",
+    "name": "Propionate (n-C3:0)",
+    "formula": "C3H5O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ni2_e": {
+    "model_reaction_id": "EX_ni2_e",
+    "metabolite_id": "ni2_e",
+    "name": "Nickel",
+    "formula": "Ni",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_no_e": {
+    "model_reaction_id": "EX_no_e",
+    "metabolite_id": "no_e",
+    "name": "Nitric oxide",
+    "formula": "NO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fad_e": {
+    "model_reaction_id": "EX_fad_e",
+    "metabolite_id": "fad_e",
+    "name": "Flavin adenine dinucleotide oxidized",
+    "formula": "C27H31N9O15P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_meoh_e": {
+    "model_reaction_id": "EX_meoh_e",
+    "metabolite_id": "meoh_e",
+    "name": "Methanol",
+    "formula": "CH4O1",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe3dcit_e": {
+    "model_reaction_id": "EX_fe3dcit_e",
+    "metabolite_id": "fe3dcit_e",
+    "name": "Fe(III)dicitrate",
+    "formula": "C12H10FeO14",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe3hox_e": {
+    "model_reaction_id": "EX_fe3hox_e",
+    "metabolite_id": "fe3hox_e",
+    "name": "Fe(III)hydroxamate",
+    "formula": "C9H18O6N3Fe",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fecrm_e": {
+    "model_reaction_id": "EX_fecrm_e",
+    "metabolite_id": "fecrm_e",
+    "name": "Ferrichrome",
+    "formula": "C27H42FeN9O12",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_feenter_e": {
+    "model_reaction_id": "EX_feenter_e",
+    "metabolite_id": "feenter_e",
+    "name": "Fe-enterobactin",
+    "formula": "C30H27FeN3O15",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_feoxam_e": {
+    "model_reaction_id": "EX_feoxam_e",
+    "metabolite_id": "feoxam_e",
+    "name": "Generic ferrioxamine-Fe-III",
+    "formula": "C25H46FeN6O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3amp_e": {
+    "model_reaction_id": "EX_3amp_e",
+    "metabolite_id": "3amp_e",
+    "name": "3  AMP C10H12N5O7P",
+    "formula": "C10H12N5O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3gmp_e": {
+    "model_reaction_id": "EX_3gmp_e",
+    "metabolite_id": "3gmp_e",
+    "name": "Guanosine 3  phosphate C10H12N5O8P",
+    "formula": "C10H12N5O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3ump_e": {
+    "model_reaction_id": "EX_3ump_e",
+    "metabolite_id": "3ump_e",
+    "name": "3  UMP C9H11N2O9P",
+    "formula": "C9H11N2O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cu2_e": {
+    "model_reaction_id": "EX_cu2_e",
+    "metabolite_id": "cu2_e",
+    "name": "Copper",
+    "formula": "Cu",
+    "compartment": "e",
+    "common_names": [
+      "copper",
+      "Cu2+"
+    ]
+  },
+  "EX_glyc__R_e": {
+    "model_reaction_id": "EX_glyc__R_e",
+    "metabolite_id": "glyc__R_e",
+    "name": "(R)-Glycerate",
+    "formula": "C3H5O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_eca4colipa_e": {
+    "model_reaction_id": "EX_eca4colipa_e",
+    "metabolite_id": "eca4colipa_e",
+    "name": "(enterobacterial common antigen)x4 core oligosaccharide lipid A",
+    "formula": "C272H447N14O160P4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mal__D_e": {
+    "model_reaction_id": "EX_mal__D_e",
+    "metabolite_id": "mal__D_e",
+    "name": "D-Malate",
+    "formula": "C4H4O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_sel_e": {
+    "model_reaction_id": "EX_sel_e",
+    "metabolite_id": "sel_e",
+    "name": "Selenate",
+    "formula": "O4Se",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hg2_e": {
+    "model_reaction_id": "EX_hg2_e",
+    "metabolite_id": "hg2_e",
+    "name": "Mercury  charged 2  Hg",
+    "formula": "Hg",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cobalt2_e": {
+    "model_reaction_id": "EX_cobalt2_e",
+    "metabolite_id": "cobalt2_e",
+    "name": "Co2+",
+    "formula": "Co",
+    "compartment": "e",
+    "common_names": [
+      "cobalt",
+      "Co2+"
+    ]
+  },
+  "EX_pheme_e": {
+    "model_reaction_id": "EX_pheme_e",
+    "metabolite_id": "pheme_e",
+    "name": "Protoheme C34H30FeN4O4",
+    "formula": "C34H30FeN4O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mso3_e": {
+    "model_reaction_id": "EX_mso3_e",
+    "metabolite_id": "mso3_e",
+    "name": "Methanesulfonate",
+    "formula": "CH3O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_23camp_e": {
+    "model_reaction_id": "EX_23camp_e",
+    "metabolite_id": "23camp_e",
+    "name": "2',3'-Cyclic AMP",
+    "formula": "C10H11N5O6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_23cgmp_e": {
+    "model_reaction_id": "EX_23cgmp_e",
+    "metabolite_id": "23cgmp_e",
+    "name": "2',3'-Cyclic GMP",
+    "formula": "C10H11N5O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_23cump_e": {
+    "model_reaction_id": "EX_23cump_e",
+    "metabolite_id": "23cump_e",
+    "name": "2',3'-Cyclic UMP",
+    "formula": "C9H10N2O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_sulfac_e": {
+    "model_reaction_id": "EX_sulfac_e",
+    "metabolite_id": "sulfac_e",
+    "name": "Sulfoacetate",
+    "formula": "C2H2O5S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_butso3_e": {
+    "model_reaction_id": "EX_butso3_e",
+    "metabolite_id": "butso3_e",
+    "name": "Butanesulfonate",
+    "formula": "C4H9O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ethso3_e": {
+    "model_reaction_id": "EX_ethso3_e",
+    "metabolite_id": "ethso3_e",
+    "name": "Ethanesulfonate",
+    "formula": "C2H5O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tym_e": {
+    "model_reaction_id": "EX_tym_e",
+    "metabolite_id": "tym_e",
+    "name": "Tyramine",
+    "formula": "C8H12NO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_imp_e": {
+    "model_reaction_id": "EX_imp_e",
+    "metabolite_id": "imp_e",
+    "name": "IMP C10H11N4O8P",
+    "formula": "C10H11N4O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe3hox_un_e": {
+    "model_reaction_id": "EX_fe3hox_un_e",
+    "metabolite_id": "fe3hox_un_e",
+    "name": "Fe(III)hydoxamate, unloaded",
+    "formula": "C9H18O6N3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_23dappa_e": {
+    "model_reaction_id": "EX_23dappa_e",
+    "metabolite_id": "23dappa_e",
+    "name": "2,3-diaminopropionate",
+    "formula": "C3H9N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cd2_e": {
+    "model_reaction_id": "EX_cd2_e",
+    "metabolite_id": "cd2_e",
+    "name": "Cadmium",
+    "formula": "Cd",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_enter_e": {
+    "model_reaction_id": "EX_enter_e",
+    "metabolite_id": "enter_e",
+    "name": "Enterochelin",
+    "formula": "C30H27N3O15",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fecrm_un_e": {
+    "model_reaction_id": "EX_fecrm_un_e",
+    "metabolite_id": "fecrm_un_e",
+    "name": "Ferrichrome minus Fe(III)",
+    "formula": "C27H42N9O12",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cgly_e": {
+    "model_reaction_id": "EX_cgly_e",
+    "metabolite_id": "cgly_e",
+    "name": "Cys Gly C5H10N2O3S",
+    "formula": "C5H10N2O3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_chtbs_e": {
+    "model_reaction_id": "EX_chtbs_e",
+    "metabolite_id": "chtbs_e",
+    "name": "N,N'-diacetylchitobiose",
+    "formula": "C16H28N2O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gmp_e": {
+    "model_reaction_id": "EX_gmp_e",
+    "metabolite_id": "gmp_e",
+    "name": "GMP C10H12N5O8P",
+    "formula": "C10H12N5O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_h2o2_e": {
+    "model_reaction_id": "EX_h2o2_e",
+    "metabolite_id": "h2o2_e",
+    "name": "Hydrogen peroxide",
+    "formula": "H2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ump_e": {
+    "model_reaction_id": "EX_ump_e",
+    "metabolite_id": "ump_e",
+    "name": "UMP C9H11N2O9P",
+    "formula": "C9H11N2O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pydam_e": {
+    "model_reaction_id": "EX_pydam_e",
+    "metabolite_id": "pydam_e",
+    "name": "Pyridoxamine",
+    "formula": "C8H13N2O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_frulys_e": {
+    "model_reaction_id": "EX_frulys_e",
+    "metabolite_id": "frulys_e",
+    "name": "Fructoselysine",
+    "formula": "C12H25N2O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_enlipa_e": {
+    "model_reaction_id": "EX_enlipa_e",
+    "metabolite_id": "enlipa_e",
+    "name": "Phosphoethanolamine KDO(2)-lipid (A)",
+    "formula": "C112H202N3O42P3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hacolipa_e": {
+    "model_reaction_id": "EX_hacolipa_e",
+    "metabolite_id": "hacolipa_e",
+    "name": "Hepta-acylated core oligosaccharide lipid A (E. coli)",
+    "formula": "C192H333N2O101P4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_etha_e": {
+    "model_reaction_id": "EX_etha_e",
+    "metabolite_id": "etha_e",
+    "name": "Ethanolamine",
+    "formula": "C2H8NO",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hdca_e": {
+    "model_reaction_id": "EX_hdca_e",
+    "metabolite_id": "hdca_e",
+    "name": "Hexadecanoate (n-C16:0)",
+    "formula": "C16H31O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glcr_e": {
+    "model_reaction_id": "EX_glcr_e",
+    "metabolite_id": "glcr_e",
+    "name": "D-Glucarate",
+    "formula": "C6H8O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_h2o_e": {
+    "model_reaction_id": "EX_h2o_e",
+    "metabolite_id": "h2o_e",
+    "name": "H2O H2O",
+    "formula": "H2O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ala__D_e": {
+    "model_reaction_id": "EX_ala__D_e",
+    "metabolite_id": "ala__D_e",
+    "name": "D-Alanine",
+    "formula": "C3H7NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mnl_e": {
+    "model_reaction_id": "EX_mnl_e",
+    "metabolite_id": "mnl_e",
+    "name": "D-Mannitol",
+    "formula": "C6H14O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_malt_e": {
+    "model_reaction_id": "EX_malt_e",
+    "metabolite_id": "malt_e",
+    "name": "Maltose C12H22O11",
+    "formula": "C12H22O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pnto__R_e": {
+    "model_reaction_id": "EX_pnto__R_e",
+    "metabolite_id": "pnto__R_e",
+    "name": "(R)-Pantothenate",
+    "formula": "C9H16NO5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_asn__L_e": {
+    "model_reaction_id": "EX_asn__L_e",
+    "metabolite_id": "asn__L_e",
+    "name": "L-Asparagine",
+    "formula": "C4H8N2O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cit_e": {
+    "model_reaction_id": "EX_cit_e",
+    "metabolite_id": "cit_e",
+    "name": "Citrate",
+    "formula": "C6H5O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mal__L_e": {
+    "model_reaction_id": "EX_mal__L_e",
+    "metabolite_id": "mal__L_e",
+    "name": "L-Malate",
+    "formula": "C4H4O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_no2_e": {
+    "model_reaction_id": "EX_no2_e",
+    "metabolite_id": "no2_e",
+    "name": "Nitrite",
+    "formula": "NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gam_e": {
+    "model_reaction_id": "EX_gam_e",
+    "metabolite_id": "gam_e",
+    "name": "D-Glucosamine",
+    "formula": "C6H14NO5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_inost_e": {
+    "model_reaction_id": "EX_inost_e",
+    "metabolite_id": "inost_e",
+    "name": "Myo-Inositol",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mobd_e": {
+    "model_reaction_id": "EX_mobd_e",
+    "metabolite_id": "mobd_e",
+    "name": "Molybdate",
+    "formula": "MoO4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_so4_e": {
+    "model_reaction_id": "EX_so4_e",
+    "metabolite_id": "so4_e",
+    "name": "Sulfate",
+    "formula": "O4S",
+    "compartment": "e",
+    "common_names": [
+      "sulfate",
+      "SO4"
+    ]
+  },
+  "EX_phe__L_e": {
+    "model_reaction_id": "EX_phe__L_e",
+    "metabolite_id": "phe__L_e",
+    "name": "L-Phenylalanine",
+    "formula": "C9H11NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_thr__L_e": {
+    "model_reaction_id": "EX_thr__L_e",
+    "metabolite_id": "thr__L_e",
+    "name": "L-Threonine",
+    "formula": "C4H9NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_uri_e": {
+    "model_reaction_id": "EX_uri_e",
+    "metabolite_id": "uri_e",
+    "name": "Uridine",
+    "formula": "C9H12N2O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_nh4_e": {
+    "model_reaction_id": "EX_nh4_e",
+    "metabolite_id": "nh4_e",
+    "name": "Ammonium",
+    "formula": "H4N",
+    "compartment": "e",
+    "common_names": [
+      "ammonium",
+      "NH4+"
+    ]
+  },
+  "EX_ddca_e": {
+    "model_reaction_id": "EX_ddca_e",
+    "metabolite_id": "ddca_e",
+    "name": "Dodecanoate (n-C12:0)",
+    "formula": "C12H23O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_r5p_e": {
+    "model_reaction_id": "EX_r5p_e",
+    "metabolite_id": "r5p_e",
+    "name": "Alpha-D-Ribose 5-phosphate",
+    "formula": "C5H9O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glyc2p_e": {
+    "model_reaction_id": "EX_glyc2p_e",
+    "metabolite_id": "glyc2p_e",
+    "name": "Glycerol 2-phosphate",
+    "formula": "C3H7O6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_halipa_e": {
+    "model_reaction_id": "EX_halipa_e",
+    "metabolite_id": "halipa_e",
+    "name": "Hepta-acylated KDO(2)-lipid (A)",
+    "formula": "C126H226N2O40P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cmp_e": {
+    "model_reaction_id": "EX_cmp_e",
+    "metabolite_id": "cmp_e",
+    "name": "CMP C9H12N3O8P",
+    "formula": "C9H12N3O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_malthx_e": {
+    "model_reaction_id": "EX_malthx_e",
+    "metabolite_id": "malthx_e",
+    "name": "Maltohexaose",
+    "formula": "C36H62O31",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_csn_e": {
+    "model_reaction_id": "EX_csn_e",
+    "metabolite_id": "csn_e",
+    "name": "Cytosine",
+    "formula": "C4H5N3O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_etoh_e": {
+    "model_reaction_id": "EX_etoh_e",
+    "metabolite_id": "etoh_e",
+    "name": "Ethanol",
+    "formula": "C2H6O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g3pe_e": {
+    "model_reaction_id": "EX_g3pe_e",
+    "metabolite_id": "g3pe_e",
+    "name": "Sn-Glycero-3-phosphoethanolamine",
+    "formula": "C5H14NO6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pacald_e": {
+    "model_reaction_id": "EX_pacald_e",
+    "metabolite_id": "pacald_e",
+    "name": "Phenylacetaldehyde",
+    "formula": "C8H8O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_his__L_e": {
+    "model_reaction_id": "EX_his__L_e",
+    "metabolite_id": "his__L_e",
+    "name": "L-Histidine",
+    "formula": "C6H9N3O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_k_e": {
+    "model_reaction_id": "EX_k_e",
+    "metabolite_id": "k_e",
+    "name": "Potassium",
+    "formula": "K",
+    "compartment": "e",
+    "common_names": [
+      "potassium",
+      "K+"
+    ]
+  },
+  "EX_na1_e": {
+    "model_reaction_id": "EX_na1_e",
+    "metabolite_id": "na1_e",
+    "name": "Sodium",
+    "formula": "Na",
+    "compartment": "e",
+    "common_names": [
+      "sodium",
+      "Na+"
+    ]
+  },
+  "EX_dmso_e": {
+    "model_reaction_id": "EX_dmso_e",
+    "metabolite_id": "dmso_e",
+    "name": "Dimethyl sulfoxide",
+    "formula": "C2H6OS",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_12ppd__S_e": {
+    "model_reaction_id": "EX_12ppd__S_e",
+    "metabolite_id": "12ppd__S_e",
+    "name": "(S)-Propane-1,2-diol",
+    "formula": "C3H8O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pppn_e": {
+    "model_reaction_id": "EX_pppn_e",
+    "metabolite_id": "pppn_e",
+    "name": "Phenylpropanoate",
+    "formula": "C9H9O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acgam1p_e": {
+    "model_reaction_id": "EX_acgam1p_e",
+    "metabolite_id": "acgam1p_e",
+    "name": "N-Acetyl-D-glucosamine 1-phosphate",
+    "formula": "C8H14NO9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_galt_e": {
+    "model_reaction_id": "EX_galt_e",
+    "metabolite_id": "galt_e",
+    "name": "Galactitol",
+    "formula": "C6H14O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_glcur1p_e": {
+    "model_reaction_id": "EX_glcur1p_e",
+    "metabolite_id": "glcur1p_e",
+    "name": "D-Glucuronate 1-phosphate",
+    "formula": "C6H8O10P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_thrp_e": {
+    "model_reaction_id": "EX_thrp_e",
+    "metabolite_id": "thrp_e",
+    "name": "L-Threonine O-3-phosphate",
+    "formula": "C4H8NO6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fald_e": {
+    "model_reaction_id": "EX_fald_e",
+    "metabolite_id": "fald_e",
+    "name": "Formaldehyde",
+    "formula": "CH2O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pydxn_e": {
+    "model_reaction_id": "EX_pydxn_e",
+    "metabolite_id": "pydxn_e",
+    "name": "Pyridoxine",
+    "formula": "C8H11NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acgal_e": {
+    "model_reaction_id": "EX_acgal_e",
+    "metabolite_id": "acgal_e",
+    "name": "N-Acetyl-D-galactosamine",
+    "formula": "C8H15NO6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_so2_e": {
+    "model_reaction_id": "EX_so2_e",
+    "metabolite_id": "so2_e",
+    "name": "Sulfur dioxide",
+    "formula": "O2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dms_e": {
+    "model_reaction_id": "EX_dms_e",
+    "metabolite_id": "dms_e",
+    "name": "Dimethyl sulfide",
+    "formula": "C2H6S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acgal1p_e": {
+    "model_reaction_id": "EX_acgal1p_e",
+    "metabolite_id": "acgal1p_e",
+    "name": "N-Acetyl-D-galactosamine 1-phosphate",
+    "formula": "C8H14NO9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cyan_e": {
+    "model_reaction_id": "EX_cyan_e",
+    "metabolite_id": "cyan_e",
+    "name": "Hydrogen cyanide",
+    "formula": "CHN",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tyrp_e": {
+    "model_reaction_id": "EX_tyrp_e",
+    "metabolite_id": "tyrp_e",
+    "name": "Phosphotyrosine",
+    "formula": "C9H10NO6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_uacgam_e": {
+    "model_reaction_id": "EX_uacgam_e",
+    "metabolite_id": "uacgam_e",
+    "name": "UDP-N-acetyl-D-glucosamine",
+    "formula": "C17H25N3O17P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_udpacgal_e": {
+    "model_reaction_id": "EX_udpacgal_e",
+    "metabolite_id": "udpacgal_e",
+    "name": "UDP-N-acetyl-D-galactosamine",
+    "formula": "C17H25N3O17P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_udpg_e": {
+    "model_reaction_id": "EX_udpg_e",
+    "metabolite_id": "udpg_e",
+    "name": "UDPglucose",
+    "formula": "C15H22N2O17P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_udpgal_e": {
+    "model_reaction_id": "EX_udpgal_e",
+    "metabolite_id": "udpgal_e",
+    "name": "UDPgalactose",
+    "formula": "C15H22N2O17P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_udpglcur_e": {
+    "model_reaction_id": "EX_udpglcur_e",
+    "metabolite_id": "udpglcur_e",
+    "name": "UDP-D-glucuronate",
+    "formula": "C15H19N2O18P2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_14glucan_e": {
+    "model_reaction_id": "EX_14glucan_e",
+    "metabolite_id": "14glucan_e",
+    "name": "1,4-alpha-D-glucan",
+    "formula": "C36H62O31",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pser__L_e": {
+    "model_reaction_id": "EX_pser__L_e",
+    "metabolite_id": "pser__L_e",
+    "name": "O-Phospho-L-serine",
+    "formula": "C3H6NO6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_xmp_e": {
+    "model_reaction_id": "EX_xmp_e",
+    "metabolite_id": "xmp_e",
+    "name": "Xanthosine 5'-phosphate",
+    "formula": "C10H11N4O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_damp_e": {
+    "model_reaction_id": "EX_damp_e",
+    "metabolite_id": "damp_e",
+    "name": "DAMP C10H12N5O6P",
+    "formula": "C10H12N5O6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dimp_e": {
+    "model_reaction_id": "EX_dimp_e",
+    "metabolite_id": "dimp_e",
+    "name": "DIMP C10H12N4O7P",
+    "formula": "C10H11N4O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_isetac_e": {
+    "model_reaction_id": "EX_isetac_e",
+    "metabolite_id": "isetac_e",
+    "name": "Isethionic acid",
+    "formula": "C2H5O4S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_aso3_e": {
+    "model_reaction_id": "EX_aso3_e",
+    "metabolite_id": "aso3_e",
+    "name": "Arsenite",
+    "formula": "AsO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tcynt_e": {
+    "model_reaction_id": "EX_tcynt_e",
+    "metabolite_id": "tcynt_e",
+    "name": "Thiocyanate",
+    "formula": "CNS",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fe3dhbzs_e": {
+    "model_reaction_id": "EX_fe3dhbzs_e",
+    "metabolite_id": "fe3dhbzs_e",
+    "name": "Ferric 2,3-dihydroxybenzoylserine",
+    "formula": "C10H10NO6Fe",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_feoxam_un_e": {
+    "model_reaction_id": "EX_feoxam_un_e",
+    "metabolite_id": "feoxam_un_e",
+    "name": "Ferroxamine minus Fe(3)",
+    "formula": "C25H46N6O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g3pc_e": {
+    "model_reaction_id": "EX_g3pc_e",
+    "metabolite_id": "g3pc_e",
+    "name": "Sn-Glycero-3-phosphocholine",
+    "formula": "C8H20NO6P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g3pg_e": {
+    "model_reaction_id": "EX_g3pg_e",
+    "metabolite_id": "g3pg_e",
+    "name": "Glycerophosphoglycerol",
+    "formula": "C6H14O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g3pi_e": {
+    "model_reaction_id": "EX_g3pi_e",
+    "metabolite_id": "g3pi_e",
+    "name": "Sn-Glycero-3-phospho-1-inositol",
+    "formula": "C9H18O11P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g3ps_e": {
+    "model_reaction_id": "EX_g3ps_e",
+    "metabolite_id": "g3ps_e",
+    "name": "Glycerophosphoserine",
+    "formula": "C6H13NO8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_peamn_e": {
+    "model_reaction_id": "EX_peamn_e",
+    "metabolite_id": "peamn_e",
+    "name": "Phenethylamine",
+    "formula": "C8H12N",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_34dhpac_e": {
+    "model_reaction_id": "EX_34dhpac_e",
+    "metabolite_id": "34dhpac_e",
+    "name": "3,4-Dihydroxyphenylacetaldehyde",
+    "formula": "C8H8O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cys__L_e": {
+    "model_reaction_id": "EX_cys__L_e",
+    "metabolite_id": "cys__L_e",
+    "name": "L-Cysteine",
+    "formula": "C3H7NO2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gsn_e": {
+    "model_reaction_id": "EX_gsn_e",
+    "metabolite_id": "gsn_e",
+    "name": "Guanosine",
+    "formula": "C10H13N5O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_orot_e": {
+    "model_reaction_id": "EX_orot_e",
+    "metabolite_id": "orot_e",
+    "name": "Orotate C5H3N2O4",
+    "formula": "C5H3N2O4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_manglyc_e": {
+    "model_reaction_id": "EX_manglyc_e",
+    "metabolite_id": "manglyc_e",
+    "name": "2(alpha-D-Mannosyl)-D-glycerate",
+    "formula": "C9H15O9",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_metsox_R__L_e": {
+    "model_reaction_id": "EX_metsox_R__L_e",
+    "metabolite_id": "metsox_R__L_e",
+    "name": "L-methionine-R-sulfoxide",
+    "formula": "C5H11NO3S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cl_e": {
+    "model_reaction_id": "EX_cl_e",
+    "metabolite_id": "cl_e",
+    "name": "Chloride",
+    "formula": "Cl",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dgmp_e": {
+    "model_reaction_id": "EX_dgmp_e",
+    "metabolite_id": "dgmp_e",
+    "name": "DGMP C10H12N5O7P",
+    "formula": "C10H12N5O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_4hoxpacd_e": {
+    "model_reaction_id": "EX_4hoxpacd_e",
+    "metabolite_id": "4hoxpacd_e",
+    "name": "4-Hydroxyphenylacetaldehyde",
+    "formula": "C8H8O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3hpppn_e": {
+    "model_reaction_id": "EX_3hpppn_e",
+    "metabolite_id": "3hpppn_e",
+    "name": "3-(3-hydroxy-phenyl)propionate",
+    "formula": "C9H9O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_man6p_e": {
+    "model_reaction_id": "EX_man6p_e",
+    "metabolite_id": "man6p_e",
+    "name": "D-Mannose 6-phosphate",
+    "formula": "C6H11O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tsul_e": {
+    "model_reaction_id": "EX_tsul_e",
+    "metabolite_id": "tsul_e",
+    "name": "Thiosulfate",
+    "formula": "O3S2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_n2o_e": {
+    "model_reaction_id": "EX_n2o_e",
+    "metabolite_id": "n2o_e",
+    "name": "Nitrous oxide",
+    "formula": "N2O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_maltttr_e": {
+    "model_reaction_id": "EX_maltttr_e",
+    "metabolite_id": "maltttr_e",
+    "name": "Maltotetraose",
+    "formula": "C24H42O21",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_alaala_e": {
+    "model_reaction_id": "EX_alaala_e",
+    "metabolite_id": "alaala_e",
+    "name": "D-Alanyl-D-alanine",
+    "formula": "C6H12N2O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dtmp_e": {
+    "model_reaction_id": "EX_dtmp_e",
+    "metabolite_id": "dtmp_e",
+    "name": "DTMP C10H13N2O8P",
+    "formula": "C10H13N2O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_lipoate_e": {
+    "model_reaction_id": "EX_lipoate_e",
+    "metabolite_id": "lipoate_e",
+    "name": "Lipoate",
+    "formula": "C8H14O2S2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_pydx_e": {
+    "model_reaction_id": "EX_pydx_e",
+    "metabolite_id": "pydx_e",
+    "name": "Pyridoxal",
+    "formula": "C8H9NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_g1p_e": {
+    "model_reaction_id": "EX_g1p_e",
+    "metabolite_id": "g1p_e",
+    "name": "D-Glucose 1-phosphate",
+    "formula": "C6H11O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_o2_e": {
+    "model_reaction_id": "EX_o2_e",
+    "metabolite_id": "o2_e",
+    "name": "O2 O2",
+    "formula": "O2",
+    "compartment": "e",
+    "common_names": [
+      "oxygen",
+      "O2"
+    ]
+  },
+  "EX_progly_e": {
+    "model_reaction_id": "EX_progly_e",
+    "metabolite_id": "progly_e",
+    "name": "L-Prolinylglycine",
+    "formula": "C7H12N2O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gal_bD_e": {
+    "model_reaction_id": "EX_gal_bD_e",
+    "metabolite_id": "gal_bD_e",
+    "name": "Beta D-Galactose",
+    "formula": "C6H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dump_e": {
+    "model_reaction_id": "EX_dump_e",
+    "metabolite_id": "dump_e",
+    "name": "DUMP C9H11N2O8P",
+    "formula": "C9H11N2O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_12ppd__R_e": {
+    "model_reaction_id": "EX_12ppd__R_e",
+    "metabolite_id": "12ppd__R_e",
+    "name": "(R)-Propane-1,2-diol",
+    "formula": "C3H8O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_o2s_e": {
+    "model_reaction_id": "EX_o2s_e",
+    "metabolite_id": "o2s_e",
+    "name": "Superoxide anion",
+    "formula": "O2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_gal1p_e": {
+    "model_reaction_id": "EX_gal1p_e",
+    "metabolite_id": "gal1p_e",
+    "name": "Alpha-D-Galactose 1-phosphate",
+    "formula": "C6H11O9P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dcmp_e": {
+    "model_reaction_id": "EX_dcmp_e",
+    "metabolite_id": "dcmp_e",
+    "name": "DCMP C9H12N3O7P",
+    "formula": "C9H12N3O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_23ccmp_e": {
+    "model_reaction_id": "EX_23ccmp_e",
+    "metabolite_id": "23ccmp_e",
+    "name": "2',3'-Cyclic CMP",
+    "formula": "C9H11N3O7P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3cmp_e": {
+    "model_reaction_id": "EX_3cmp_e",
+    "metabolite_id": "3cmp_e",
+    "name": "3  CMP C9H12N3O8P",
+    "formula": "C9H12N3O8P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_urate_e": {
+    "model_reaction_id": "EX_urate_e",
+    "metabolite_id": "urate_e",
+    "name": "Urate C5H4N4O3",
+    "formula": "C5H4N4O3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_skm_e": {
+    "model_reaction_id": "EX_skm_e",
+    "metabolite_id": "skm_e",
+    "name": "Shikimate",
+    "formula": "C7H9O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cpgn_un_e": {
+    "model_reaction_id": "EX_cpgn_un_e",
+    "metabolite_id": "cpgn_un_e",
+    "name": "Coprogen unloaded (no Fe(III))",
+    "formula": "C35H52N6O13",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ag_e": {
+    "model_reaction_id": "EX_ag_e",
+    "metabolite_id": "ag_e",
+    "name": "Silver",
+    "formula": "Ag",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cys__D_e": {
+    "model_reaction_id": "EX_cys__D_e",
+    "metabolite_id": "cys__D_e",
+    "name": "D-Cysteine",
+    "formula": "C3H7NO2S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_acser_e": {
+    "model_reaction_id": "EX_acser_e",
+    "metabolite_id": "acser_e",
+    "name": "O-Acetyl-L-serine",
+    "formula": "C5H9NO4",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cu_e": {
+    "model_reaction_id": "EX_cu_e",
+    "metabolite_id": "cu_e",
+    "name": "Cu+",
+    "formula": "Cu",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_arbtn_e": {
+    "model_reaction_id": "EX_arbtn_e",
+    "metabolite_id": "arbtn_e",
+    "name": "Aerobactin minus Fe3",
+    "formula": "C22H33N4O13",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dopa_e": {
+    "model_reaction_id": "EX_dopa_e",
+    "metabolite_id": "dopa_e",
+    "name": "Dopamine",
+    "formula": "C8H12NO2",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tartr__D_e": {
+    "model_reaction_id": "EX_tartr__D_e",
+    "metabolite_id": "tartr__D_e",
+    "name": "D-tartrate",
+    "formula": "C4H4O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_galctn__L_e": {
+    "model_reaction_id": "EX_galctn__L_e",
+    "metabolite_id": "galctn__L_e",
+    "name": "L-Galactonate",
+    "formula": "C6H11O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_hom__L_e": {
+    "model_reaction_id": "EX_hom__L_e",
+    "metabolite_id": "hom__L_e",
+    "name": "L-Homoserine",
+    "formula": "C4H9NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_tungs_e": {
+    "model_reaction_id": "EX_tungs_e",
+    "metabolite_id": "tungs_e",
+    "name": "Tungstate",
+    "formula": "O4W1",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_crn__D_e": {
+    "model_reaction_id": "EX_crn__D_e",
+    "metabolite_id": "crn__D_e",
+    "name": "D-Carnitine",
+    "formula": "C7H15NO3",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_LalaDgluMdapDala_e": {
+    "model_reaction_id": "EX_LalaDgluMdapDala_e",
+    "metabolite_id": "LalaDgluMdapDala_e",
+    "name": "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",
+    "formula": "C18H30N5O9",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_5dglcn_e": {
+    "model_reaction_id": "EX_5dglcn_e",
+    "metabolite_id": "5dglcn_e",
+    "name": "5-Dehydro-D-gluconate",
+    "formula": "C6H9O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_LalaDgluMdap_e": {
+    "model_reaction_id": "EX_LalaDgluMdap_e",
+    "metabolite_id": "LalaDgluMdap_e",
+    "name": "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",
+    "formula": "C15H25N4O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_psclys_e": {
+    "model_reaction_id": "EX_psclys_e",
+    "metabolite_id": "psclys_e",
+    "name": "Psicoselysine",
+    "formula": "C12H25N2O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_anhgm_e": {
+    "model_reaction_id": "EX_anhgm_e",
+    "metabolite_id": "anhgm_e",
+    "name": "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid",
+    "formula": "C19H29N2O12",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ppal_e": {
+    "model_reaction_id": "EX_ppal_e",
+    "metabolite_id": "ppal_e",
+    "name": "Propanal",
+    "formula": "C3H6O",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_slnt_e": {
+    "model_reaction_id": "EX_slnt_e",
+    "metabolite_id": "slnt_e",
+    "name": "Selenite",
+    "formula": "O3Se",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_LalaDglu_e": {
+    "model_reaction_id": "EX_LalaDglu_e",
+    "metabolite_id": "LalaDglu_e",
+    "name": "L-alanine-D-glutamate",
+    "formula": "C8H13N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_5mtr_e": {
+    "model_reaction_id": "EX_5mtr_e",
+    "metabolite_id": "5mtr_e",
+    "name": "5-Methylthio-D-ribose",
+    "formula": "C6H12O4S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_LalaLglu_e": {
+    "model_reaction_id": "EX_LalaLglu_e",
+    "metabolite_id": "LalaLglu_e",
+    "name": "L-alanine-L-glutamate",
+    "formula": "C8H13N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_ttrcyc_e": {
+    "model_reaction_id": "EX_ttrcyc_e",
+    "metabolite_id": "ttrcyc_e",
+    "name": "Tetracycline",
+    "formula": "C22H24N2O8",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mincyc_e": {
+    "model_reaction_id": "EX_mincyc_e",
+    "metabolite_id": "mincyc_e",
+    "name": "Minocycline",
+    "formula": "C23H27N3O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_arbt_e": {
+    "model_reaction_id": "EX_arbt_e",
+    "metabolite_id": "arbt_e",
+    "name": "Arbutin C12H16O7",
+    "formula": "C12H16O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dxylnt_e": {
+    "model_reaction_id": "EX_dxylnt_e",
+    "metabolite_id": "dxylnt_e",
+    "name": "D-Xylonate",
+    "formula": "C5H9O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mththf_e": {
+    "model_reaction_id": "EX_mththf_e",
+    "metabolite_id": "mththf_e",
+    "name": "(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",
+    "formula": "C5H10O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_doxrbcn_e": {
+    "model_reaction_id": "EX_doxrbcn_e",
+    "metabolite_id": "doxrbcn_e",
+    "name": "Doxorubicin",
+    "formula": "C27H29NO11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_dhps_e": {
+    "model_reaction_id": "EX_dhps_e",
+    "metabolite_id": "dhps_e",
+    "name": "2,3-Dihydroxypropane-1-sulfonate",
+    "formula": "C3H7O5S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cs1_e": {
+    "model_reaction_id": "EX_cs1_e",
+    "metabolite_id": "cs1_e",
+    "name": "Cesium ion",
+    "formula": "Cs",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_fusa_e": {
+    "model_reaction_id": "EX_fusa_e",
+    "metabolite_id": "fusa_e",
+    "name": "Fusidic acid",
+    "formula": "C31H48O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_mepn_e": {
+    "model_reaction_id": "EX_mepn_e",
+    "metabolite_id": "mepn_e",
+    "name": "Methylphosphonic acid",
+    "formula": "CH4O3P",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_cm_e": {
+    "model_reaction_id": "EX_cm_e",
+    "metabolite_id": "cm_e",
+    "name": "Chloramphenicol",
+    "formula": "C11H12Cl2N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_novbcn_e": {
+    "model_reaction_id": "EX_novbcn_e",
+    "metabolite_id": "novbcn_e",
+    "name": "Novobiocin",
+    "formula": "C31H36N2O11",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_2dglc_e": {
+    "model_reaction_id": "EX_2dglc_e",
+    "metabolite_id": "2dglc_e",
+    "name": "2 Deoxy D glucose C6H12O5",
+    "formula": "C6H12O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_sq_e": {
+    "model_reaction_id": "EX_sq_e",
+    "metabolite_id": "sq_e",
+    "name": "Sulphoquinovose",
+    "formula": "C6H11O8S",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_4abzglu_e": {
+    "model_reaction_id": "EX_4abzglu_e",
+    "metabolite_id": "4abzglu_e",
+    "name": "4-aminobenzoyl-glutamate",
+    "formula": "C12H12N2O5",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_rfamp_e": {
+    "model_reaction_id": "EX_rfamp_e",
+    "metabolite_id": "rfamp_e",
+    "name": "Rifampin",
+    "formula": "C43H58N4O12",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_metglcur_e": {
+    "model_reaction_id": "EX_metglcur_e",
+    "metabolite_id": "metglcur_e",
+    "name": "1-O-methyl-Beta-D-glucuronate",
+    "formula": "C7H11O7",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_quin_e": {
+    "model_reaction_id": "EX_quin_e",
+    "metabolite_id": "quin_e",
+    "name": "Quinate",
+    "formula": "C7H12O6",
+    "compartment": "e",
+    "common_names": []
+  },
+  "EX_3hpp_e": {
+    "model_reaction_id": "EX_3hpp_e",
+    "metabolite_id": "3hpp_e",
+    "name": "3-Hydroxypropanoate",
+    "formula": "C3H5O3",
+    "compartment": "e",
+    "common_names": []
+  }
+}
